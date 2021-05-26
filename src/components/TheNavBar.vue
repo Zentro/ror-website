@@ -37,8 +37,14 @@
               >Download</router-link
             >
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://forum.rigsofrods.org">Forums</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Community
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <li><a class="dropdown-item" href="https://forum.rigsofrods.org/">Forums</a></li>
+              <li><a class="dropdown-item" href="https://forum.rigsofrods.org/resources/">Repository</a></li>
+            </ul>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://docs.rigsofrods.org"
