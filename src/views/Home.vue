@@ -63,6 +63,7 @@
               <p class="feature-text">
                 Rigs of Rods is a free and open-source vehicle simulator. It allows for the accurate physical simulation of a flexible soft-body object which entirely depends on the physical construction of what you make.
               </p>
+              <a class="feature-link" href="#">Learn more about the game →</a>
             </div>
             <div class="col-12 col-lg-6 feature-img mx-auto my-auto">
               <img src="../assets/background-truckrally.png" />
@@ -76,6 +77,7 @@
               <p class="feature-text">
                 Put your ideas into Rigs of Rods with ease! Our documentation is always up-to-date, with plenty of helpful tutorials written by community members to help you start.
               </p>
+              <a class="feature-link" href="#">Browse the community repository →</a>
             </div>
             <div class="col-12 col-lg-6 feature-img mx-auto my-auto">
               <img src="../assets/background-sunset.png" />
@@ -89,6 +91,7 @@
               <p class="feature-text">
                 Play Rigs of Rods – with your friends! Enjoy what you do in single player but with up to 64 other players in a public lobby or your own private server.
               </p>
+              <a class="feature-link" href="#">Browse community servers →</a>
             </div>
             <div class="col-12 col-lg-6 feature-img mx-auto my-auto">
               <img src="../assets/background-helicopter.png" />

@@ -32,6 +32,9 @@
                 <a class="col-12 col-md-2" href="https://www.youtube.com/rigsofrods"
                   ><i class="fab fa-youtube fa-2x"></i
                 ></a>
+                <a class="col-12 col-md-2" href="https://www.github.com/RigsOfRods"
+                  ><i class="fab fa-github fa-2x"></i
+                ></a>
               </div>
             </div>
           </div>
